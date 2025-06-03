@@ -24,12 +24,13 @@
 
 - [📦 Charging Planner](https://chargingplanner.vercel.app/) – Trata-se de um sistema inteligente de monitoramento veicular que acompanha, em tempo real, a autonomia do veículo elétrico e sugere pontos de recarga ao longo da rota. A solução considera fatores como disponibilidade das estações e tempo de espera, oferecendo ao motorista alternativas ideais de recarga. Com isso, reduz a ansiedade relacionada à autonomia, otimiza o planejamento de viagens e proporciona uma experiência de condução mais tranquila, eficiente e segura.
 
+- [📦 AcessMove](https://drive.google.com/file/d/1LVICH3CyHWlM1pORsDbiV1tBbXL9nB7o/view?usp=drivesdk) - AcessMove é uma plataforma de mobilidade urbana inclusiva, desenvolvida para oferecer um serviço de transporte seguro, acessível e humanizado para pessoas com deficiência. Com foco em acessibilidade digital, veículos adaptados e motoristas capacitados, a AcessMove conecta usuários a corridas personalizadas, respeitando suas necessidades individuais. O projeto promove autonomia, dignidade e inclusão social no deslocamento diário.
+
+- [📦 EduCultura](https://drive.google.com/file/d/1Ibd4IsduY_gXLsnZAI5lBE12mxpX9jWw/view?usp=drivesdk) –  Plataforma educacional desenvolvida para auxiliar professores em sala de aula no ensino da cultura pernambucana. A proposta é tornar o aprendizado mais interativo e regionalizado, oferecendo recursos visuais e didáticos que valorizam o patrimônio cultural do estado.
+
 - [📦 SITE Teakids](https://drive.google.com/file/d/1JCRFCPjVQhvfnyn6XeBTcv9UNEafXTwi/view?usp=drivesdk) – Protótipo de site que apresenta um jogo interativo voltado para o desenvolvimento de habilidades cognitivas em crianças autistas. O projeto foi pensado com foco na acessibilidade, estímulos visuais e atividades lúdicas, promovendo o aprendizado de forma inclusiva e respeitosa às diferentes formas de percepção e interação.
 - [📦 GAME Teakids](https://gx.games/pt-br/games/beq37p/teakids/tracks/2dfa30a5-fc7b-4d07-861c-f8e72e26f905/) - Jogo criado para ajudar crianças autistas a desenvolver habilidades cognitivas como atenção e memória. Com design acessível e atividades lúdicas, oferece um ambiente divertido e seguro para aprendizado e estímulo.
   
-- [📦 EduCultura](https://drive.google.com/file/d/1Ibd4IsduY_gXLsnZAI5lBE12mxpX9jWw/view?usp=drivesdk) –  Plataforma educacional desenvolvida para auxiliar professores em sala de aula no ensino da cultura pernambucana. A proposta é tornar o aprendizado mais interativo e regionalizado, oferecendo recursos visuais e didáticos que valorizam o patrimônio cultural do estado.
-
-- [📦 AcessMove](https://drive.google.com/file/d/1LVICH3CyHWlM1pORsDbiV1tBbXL9nB7o/view?usp=drivesdk)
 
 > Navegue pelo meu linkedin para ver mais projetos pessoais, exercícios de faculdade e protótipos em estudo!
 
