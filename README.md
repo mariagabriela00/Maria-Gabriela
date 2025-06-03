@@ -1,6 +1,6 @@
 # 👋 Olá! Meu nome é Maria Gabriela
 
-🎓Sou estudante universitário de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital, uma iniciativa do Porto Digital em parceria com a Universidade Tiradentes (UNIT). Também possuo formação técnica em Análise e Desenvolvimento de Sistemas, o que reforça minha base de conhecimento na área. Tenho uma paixão platônica por tecnologia e desafios, o que me motiva a buscar sempre novos aprendizados e experiências no campo da programação. Possuo conhecimentos em linguagens e ferramentas como JavaScript, TypeScript, Python, SQL, PostgreSQL, HTML e CSS, com foco atual no estudo e desenvolvimento de projetos em Java. Estou sempre pronta para enfrentar desafios e criar soluções inovadoras. 💡
+🎓Sou estudante universitário de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital, uma iniciativa do Porto Digital em parceria com a Universidade Tiradentes (UNIT). Também possuo formação técnica em Análise e Desenvolvimento de Sistemas, o que reforça minha base de conhecimento na área. Tenho uma paixão platônica por tecnologia e desafios, o que me motiva a buscar sempre novos aprendizados e experiências no campo da programação. Possuo conhecimentos em linguagens e ferramentas como JavaScript, TypeScript, Python, SQL, PostgreSQL, React, HTML e CSS, com foco atual no estudo e desenvolvimento de projetos em Java. Estou sempre pronta para enfrentar desafios e criar soluções inovadoras. 💡
 
 ---
 
@@ -14,6 +14,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 🎯 **Foco atual**: Desenvolvimento front/back-end com Java e integração com banco de dados.
 
