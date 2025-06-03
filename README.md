@@ -25,7 +25,7 @@
 
 - [📦 Teakids](https://teakids.nicepage.io) – Site interativo com foco educativo e visual infantil, desenvolvido como protótipo para crianças em idade escolar.
 
-- [📦 Outro Projeto](https://seu-link-externo-aqui.com) – Exemplo de uso de tecnologias como Java e PostgreSQL. *(Substitua por um link real, como Vercel, Replit, etc.)*
+- [📦 EDUCULTURA](https://drive.google.com/file/d/1Ibd4IsduY_gXLsnZAI5lBE12mxpX9jWw/view?usp=drivesdk) – Exemplo de uso de tecnologias como Java e PostgreSQL. *(Substitua por um link real, como Vercel, Replit, etc.)*
 
 
 > Navegue pelo meu GitHub para ver mais projetos pessoais, exercícios de faculdade e protótipos em estudo!
