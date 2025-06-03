@@ -1,7 +1,6 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! me chamo Maria Gabriela
 
-🎓 Estudante universitário de **Análise e Desenvolvimento de Sistemas** pelo programa Embarque Digital — uma iniciativa do Porto Digital com a Universidade Tiradentes (UNIT).  
-💡 Tenho uma paixão por tecnologia, desafios e por aprender sempre algo novo.
+🎓Sou estudante universitário de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital, uma iniciativa do Porto Digital em parceria com a Universidade Tiradentes (UNIT). Tenho uma paixão platônica por tecnologia e desafios, o que me motiva a buscar sempre novos aprendizados e experiências no campo da programação. Possuo conhecimentos em linguagens e ferramentas como JavaScript, TypeScript, Python, SQL, PostgreSQL, HTML e CSS, com foco atual no estudo e desenvolvimento de projetos em Java. Estou sempre pronto para enfrentar desafios e criar soluções inovadoras. 💡
 
 ---
 
