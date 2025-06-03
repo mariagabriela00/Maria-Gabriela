@@ -23,7 +23,7 @@
 
 - [📦 Charging Planner](https://chargingplanner.vercel.app/) – Trata-se de um sistema inteligente de monitoramento veicular que acompanha, em tempo real, a autonomia do veículo elétrico e sugere pontos de recarga ao longo da rota. A solução considera fatores como disponibilidade das estações e tempo de espera, oferecendo ao motorista alternativas ideais de recarga. Com isso, reduz a ansiedade relacionada à autonomia, otimiza o planejamento de viagens e proporciona uma experiência de condução mais tranquila, eficiente e segura.
 
-- [📦 Nome do Projeto 2](https://github.com/seu-usuario/nome-do-projeto2) – Breve descrição do propósito.
+- [📦 Nome do Projeto 2](https:/teakids.nicepage.io) – Breve descrição do propósito.
 - [📦 Nome do Projeto 3](https://github.com/seu-usuario/nome-do-projeto3) – Exemplo de uso de tecnologias como Java e PostgreSQL.
 
 > Navegue pelo meu GitHub para ver mais projetos pessoais, exercícios de faculdade e protótipos em estudo!
