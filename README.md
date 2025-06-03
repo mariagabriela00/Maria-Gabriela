@@ -1,6 +1,6 @@
 # 👋 Olá! me chamo Maria Gabriela
 
-🎓Sou estudante universitário de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital, uma iniciativa do Porto Digital em parceria com a Universidade Tiradentes (UNIT). Tenho uma paixão platônica por tecnologia e desafios, o que me motiva a buscar sempre novos aprendizados e experiências no campo da programação. Possuo conhecimentos em linguagens e ferramentas como JavaScript, TypeScript, Python, SQL, PostgreSQL, HTML e CSS, com foco atual no estudo e desenvolvimento de projetos em Java. Estou sempre pronto para enfrentar desafios e criar soluções inovadoras. 💡
+🎓Sou estudante universitário de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital, uma iniciativa do Porto Digital em parceria com a Universidade Tiradentes (UNIT). Tenho uma paixão platônica por tecnologia e desafios, o que me motiva a buscar sempre novos aprendizados e experiências no campo da programação. Possuo conhecimentos em linguagens e ferramentas como JavaScript, TypeScript, Python, SQL, PostgreSQL, HTML e CSS, com foco atual no estudo e desenvolvimento de projetos em Java. Estou sempre pronta para enfrentar desafios e criar soluções inovadoras. 💡
 
 ---
 
@@ -31,8 +31,8 @@
 
 ## 📬 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](www.linkedin.com/in/gabrielapereira19)
+[![Email] profissional.mariagabriela@gmail.com
 
 ---
 
