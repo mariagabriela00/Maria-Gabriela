@@ -1,6 +1,6 @@
 # 👋 Olá! Meu nome é Maria Gabriela
 
-🎓Sou estudante universitária de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital, uma iniciativa do Porto Digital em parceria com a Universidade Tiradentes (UNIT). Também possuo formação técnica em Desenvolvimento de Sistemas, o que reforça minha base de conhecimento na área. Tenho uma paixão platônica por tecnologia e desafios, o que me motiva a buscar sempre novos aprendizados e experiências no campo da programação. Possuo conhecimentos em linguagens e ferramentas como JavaScript, TypeScript, Python, SQL, PostgreSQL, React, HTML e CSS. Meu atual foco é o estudo e desenvolvimento de projetos em Java. Estou sempre pronta para enfrentar desafios e criar soluções inovadoras. 💡
+🎓Sou estudante universitária de Análise e Desenvolvimento de Sistemas pelo programa Embarque Digital, uma iniciativa do Porto Digital em parceria com a Universidade Tiradentes (UNIT). Também possuo formação técnica em Desenvolvimento de Sistemas, o que reforça minha base de conhecimento na área. Tenho uma paixão platônica por tecnologia e desafios, o que me motiva a buscar sempre novos aprendizados e experiências no campo da programação. Atualmente, venho direcionando meus estudos para o desenvolvimento de projetos em Java, enquanto amplio minha experiência com diferentes ferramentas e tecnologias. Estou sempre pronta para enfrentar desafios e criar soluções inovadoras.💡
 
 ---
 
